@@ -1,4 +1,4 @@
-<h2>Hello World! Eu sou a <strong>Camila Guimaraes</strong>! 👩‍💻</h2>
+<h2>Hello World! Eu sou a <strong>Camila Guimaraes</strong>! 👋👩‍💻</h2>
 
 
 <div>
