@@ -37,7 +37,7 @@
 </p>
  </div>
 
-<p align="center">Minha paixão está no desenvolvimento backend e na gestão de bancos de dados.❤️ <br><br> Estou iniciando minha jornada na área de tecnologia e estou focada no desenvolvimento. Comprometida em aprender e aprofundar meus conhecimentos nessa área emocionante.</p>&nbsp;
+<p align="center">Minha paixão está no desenvolvimento backend e na gestão de bancos de dados.❤️ <br><br> Sou uma entusiasta iniciante na área de tecnologia, com um forte foco em crescimento e aprendizado contínuo no mundo do desenvolvimento de software. Comprometida em aprender e aprofundar meus conhecimentos na área. Estou aberta a oportunidades de aprendizado, colaboração e crescimento!</p>&nbsp;
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
